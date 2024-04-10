@@ -6,7 +6,7 @@ Algoritmo "programa de cálculos"
 
 
 Var
-// Seção de Declarações das variáveis 
+// Seção de Declarações das variáveis
 largura:real
 altura:real
 raio:real
@@ -18,6 +18,7 @@ menu:inteiro
 
 Inicio
 // Seção de Comandos, procedimento, funções, operadores, etc... 
+escreval ("esse projeto está dentro do github!")
 escreval("#### Programa de cálculo ####")
 escreval("")
 escreval("digite a opção desejada:")
